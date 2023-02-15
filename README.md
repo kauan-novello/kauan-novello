@@ -45,9 +45,9 @@ Ou seja, durante o curso não aprendi apenas a desenvolver códigos, mas tive ta
 Além de participar de uma série de iniciativas para fomentar a inovação, como programas de incubação de startups, eventos de networking (TheDevConference, Rec'n'Play...) e cursos em parcerias com empresas do Porto (Accenture, Softex, DC...).
 
 <p align="center">
-  <img src="https://i.ibb.co/rZRB80K/c.jpg" alt="Foto da ETE" width="300" height="169">
-  <img src="https://i.ibb.co/Z6rJ6jx/a.jpg" alt="Foto dos Cursos" width="300" height="169">
-  <img src="https://i.ibb.co/X2Crn18/b.jpg" alt="Foto dos Eventos" width="300" height="169">
+  <img src="https://i.ibb.co/rZRB80K/c.jpg" alt="Foto da ETE" width="30%" height="169">
+  <img src="https://i.ibb.co/Z6rJ6jx/a.jpg" alt="Foto dos Cursos" width="30%" height="169">
+  <img src="https://i.ibb.co/X2Crn18/b.jpg" alt="Foto dos Eventos" width="30%" height="169">
 </p>
 
 Após tudo isso, não havia mais dúvidas, era isso que eu queria pra minha vida e pro meu futuro. Maaas como nem tudo na vida são flores, ainda no meu terceiro ano do ensino médio, veio a pandemia, me formei em meio ao Ead e ao Google Classroom, o que me fez sair um pouco do trilho em relação a carreira dev. 
@@ -68,9 +68,9 @@ E foi ai que decidi, não tinha lugar melhor pra me reinserir no mundo da tecnol
 Desde então tenho vivido essa vida de graduando em CC, aqui na Cesar School e busco aprender todos os dias o que está sendo feito de novo no mundo, quais são a novas grandes tecnologias do mercado e também estudando pra passar em provas kkkk
 
 <p align="center">
-  <img src="https://i.ibb.co/gJ0C0Pd/W.jpg" alt="Foto no Cesar" width="300" height="169">
-  <img src="https://i.ibb.co/NrQphYf/G.jpg" alt="Foto no Cesar" width="300" height="169">
-  <img src="https://i.ibb.co/zN1WY5S/j.jpg" alt="Foto no Cesar" width="300" height="169">
+  <img src="https://i.ibb.co/gJ0C0Pd/W.jpg" alt="Foto no Cesar" width="30%" height="169">
+  <img src="https://i.ibb.co/NrQphYf/G.jpg" alt="Foto no Cesar" width="30%" height="169">
+  <img src="https://i.ibb.co/zN1WY5S/j.jpg" alt="Foto no Cesar" width="30%" height="169">
 </p>
 
 </br>

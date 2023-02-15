@@ -32,8 +32,8 @@ Desde pequeno, já tinha interesse por <b>tecnologia, computadores e jogos</b>, 
 Meu professor do curso, <a href="https://www.instagram.com/iranpontesm/" style="text-decoration:none">Iran Pontes</a> (meu grande amigo e mentor até hoje), foi um dos principais motivadores para eu seguir na área. Ele me falava muito sobre o mercado de tecnologia e sobre o <b>Porto Digital</b>, um dos principais <b>parques tecnológicos</b> e <b>ambientes de inovação</b> do Brasil, localizado aqui no centro de Recife.
 
 <p align="center">
-  <img src="https://i.ibb.co/R4WVH6c/E7-FDFB21-3-E90-49-B9-927-F-CE49557-A96-A9.jpg" alt="Foto minha com iran" width="350" height="197">
-  <img src="https://i.ibb.co/34w5kJ8/portodigital.png" alt="Foto do Porto Digital" width="350" height="197">
+  <img src="https://i.ibb.co/R4WVH6c/E7-FDFB21-3-E90-49-B9-927-F-CE49557-A96-A9.jpg" alt="Foto minha com iran" width="35%" height="197">
+  <img src="https://i.ibb.co/34w5kJ8/portodigital.png" alt="Foto do Porto Digital" width="35%" height="197">
 </p>
 
 Por causa dele, comecei a acompanhar bastante o cenário e descobri que o Porto Digital, em parceria com o governo de Pernambuco, fundaria a Escola Técnica Estadual do Porto Digital. Então, pesquisei sobre o processo seletivo, editais, provas semelhantes, etc. Me inscrevi, fiz a prova e passei em 4º lugar, muito feliz. A partir daí, eu era oficialmente um estudante de TI no curso técnico de análise e desenvolvimento de sistemas.
@@ -57,8 +57,8 @@ O que também influenciou foi que durante esse ano de 2020 eu e meu pai fundamos
 Uma curiosidade legal é que nessa epoca cheguei até a ser piloto de drone, o que eu achava super divertido, além de que trazer muitas inovações a forma que eram feitas a vistorias, relátorios e projeções, deixando ainda mais preciso e rápido a produção dos relatórios. 
 
 <p align="center">
-  <img src="https://i.ibb.co/CBRYjwV/d.jpg" alt="Foto..." width="350" height="197">
-  <img src="https://i.ibb.co/xmHKwS2/e.jpg" alt="Foto com Drone" width="350" height="197">
+  <img src="https://i.ibb.co/CBRYjwV/d.jpg" alt="Foto..." width="35%" height="197">
+  <img src="https://i.ibb.co/xmHKwS2/e.jpg" alt="Foto com Drone" width="35%" height="197">
 </p>
 
 O tempo foi se passando, a empresa foi crescendo, novos funcionarios foram chegando, eu estava muito feliz mas percebi que tinha chegado meu momento ali, apesar de gostar muito do que eu fazia, tinha a sensação que estava fugindo da minha area, do que eu gostava de fazer, então decidir que era o momento de se encerrar aquele ciclo e voltar a investir na minha carreira na tecnologia.

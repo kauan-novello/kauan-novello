@@ -109,7 +109,7 @@ Desde então tenho vivido essa vida de graduando em CC, aqui na Cesar School e b
 ##
 <p align="center">
 <a href="https://github.com/kauan-novello/kauannovello">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeniblodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kauan-novello&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kauan-novello&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>

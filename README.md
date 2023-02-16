@@ -7,17 +7,17 @@
  
  <h1 align="left">Kauan V Novello de Souza</h1>
  <a href="https://www.instagram.com/kauannovellosz/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="80px" src="https://i.ibb.co/DttfBcB/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
-  <a href="https://twitter.com/kauannovello">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
-  </a>
   <a href="https://www.linkedin.com/in/kauan-novello-a23322196/">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img width="80px" src="https://i.ibb.co/RTKMG6t/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
+  <a href="mailto:kvns@cesar.school">
+    <img align="left" width="80px" src="https://i.ibb.co/WVPcfRR/email.png" alt="email" style="vertical-align:top;">
+  </a>
+  
 </div>
 
-</br>
 </br>
 
 <details>
@@ -102,7 +102,6 @@ Desde então tenho vivido essa vida de graduando em CC, aqui na Cesar School e b
 
 </br>
 <a href="https://www.instagram.com/kauannovellosz" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/kauannovello" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://www.linkedin.com/in/kauan-novello-a23322196/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 </br>
 

@@ -54,7 +54,7 @@ Após tudo isso, não havia mais dúvidas, era isso que eu queria pra minha vida
 
 O que também influenciou foi que durante esse ano de 2020 eu e meu pai fundamos uma startup de Energia Solar, a OptaTec, e eu dediquei toda minha vida a ela, aprendi tudo sobre o mercado de solar e tentava aplicar tudo que aprendia na escola em relação a empreendedorismo, marketing e etc... E como todo inicio de startup, eu tinha que "me virar nos 30" como diz o ditado, fazia tudo que era relacionado tecnologia, informação, rede sociais, design e etc... 
 
-Uma curiosidade legal é que nessa epoca cheguei até a ser piloto de drone, o que eu achava super divertido, além de que trazer muitas inovações a forma que eram feitas a vistorias, relátorios e projeções, deixando ainda mais preciso e rápido a produção dos relatórios. 
+Uma curiosidade legal é que nessa epóca cheguei até a ser piloto de drone, o que eu achava super divertido, além de que trazer muitas inovações a forma que eram feitas a vistorias, relatórios e projeções, deixando ainda mais preciso e rápido a produção dos relatórios. 
 
 <p align="center">
   <img src="https://i.ibb.co/CBRYjwV/d.jpg" alt="Foto..." width="35%" height="197">

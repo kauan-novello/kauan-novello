@@ -87,6 +87,8 @@ Desde então tenho vivido essa vida de graduando em CC, aqui na Cesar School e b
 <code><a href="#"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></a></code>
 <code><a href="#"><img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" title = "PYTHON"/></a></code>
 <code><a href="#"><img width="40px" src="https://img.icons8.com/color/452/c-programming.png" title = "C"/></a></code>
+<code><a href="#"><img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/haskell/haskell-original.svg" title = "HASKELL"/></a></code>
+<code><a href="#"><img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" title = "JAVA"/></a></code>
 <code><a href="#"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></a></code>
 
 </br>
@@ -106,9 +108,11 @@ Desde então tenho vivido essa vida de graduando em CC, aqui na Cesar School e b
 </br>
 
 ##
+<!-- 
 <p align="center">
 <a href="https://github.com/kauan-novello/kauannovello">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kauan-novello&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kauan-novello&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+-->

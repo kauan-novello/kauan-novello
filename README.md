@@ -21,7 +21,7 @@
 </br>
 
 <details>
- <summary><h2>Olá, Devs! Aqui vai um breve resumo da minha vida:</h2></summary>
+ <summary><h2>Olá, Devs! Clique aqui para ver um breve resumo da minha história:</h2></summary>
  <p>Tenho 19 anos, moro em <b>Recife/PE</b> e sou apaixonado por <strong>tecnologia e inovação.</strong>
 
 Minha história na área teve início aos 14 anos, durante o meu 9º ano do ensino fundamental.</br> 

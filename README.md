@@ -97,7 +97,7 @@ Desde então tenho vivido essa vida de graduando em CC, aqui na Cesar School e b
 <div display="inline-block">
  <p align="left">🏫 Faço parte da Cesar School, uma universidade que tem como objetivo formar profissionais capazes de inovar, empreender e transformar o mundo por meio da tecnologia, e seu modelo educacional é baseado em aprendizado por projetos, onde os alunos são desafiados a desenvolver soluções para problemas reais e aplicar seus conhecimentos em situações práticas;</p>
  <p align="left">📚 Atualmente tenho estudado Java, C e Haskell;</p>
- <p align="left">☕🎮🏋🎸 Como todo bom dev sou movido a café e adoro games. Mas diferente de muitos também cuido bastante do meu corpo, pratico diversos esportes e gosto bastante de ir pra academia. Além disso também sou músico, toco diversos instrumentos.</p>
+ <p align="left">☕🎮🏋🎸 Como todo bom dev sou movido a café e adoro games. Mas também cuido bastante do meu corpo, pratico diversos esportes e gosto bastante de ir pra academia. Além disso também sou músico, toco diversos instrumentos.</p>
 </div>
 
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/kauannovellosz) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)

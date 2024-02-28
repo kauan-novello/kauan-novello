@@ -100,7 +100,7 @@ Desde então tenho vivido essa vida de graduando em CC, aqui na Cesar School e b
  <p align="left">☕🎮🏋🎸 Como todo bom dev sou movido a café e adoro games. Mas também cuido bastante do meu corpo, pratico diversos esportes e gosto bastante de ir pra academia. Além disso também sou músico, toco diversos instrumentos.</p>
 </div>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/kauannovellosz) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/kauannovellosz) ( não garanto responder rápido 🙃) e pode conhecer meus projetos já desenvolvidos que estão disponíveis aqui nos repositórios. =)
 
 </br>
 <a href="https://www.instagram.com/kauannovellosz" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />

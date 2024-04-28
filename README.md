@@ -65,7 +65,7 @@ O tempo foi se passando, a empresa foi crescendo, novos funcionarios foram chega
 
 E foi ai que decidi, não tinha lugar melhor pra me reinserir no mundo da tecnologia do que a Cesar School, voltar pro ecossistema onde se respira inovação, viver o aprendizado de forma dinâmica, criativa e inspiradora. Então fiz o vestibular e consegui passar fazer Ciência da Computação, o curso que sempre quis. Nesse meio tempo cheguei a passsar também na Federal pra Engenharia Eletrônica, mas como disse, estava decidido que o CESAR era o meu lugar!
 
-Desde então tenho vivido essa vida de graduando em CC, aqui na Cesar School e busco aprender todos os dias o que está sendo feito de novo no mundo, quais são a novas grandes tecnologias do mercado e também estudando pra passar em provas kkkk
+Desde então tenho vivido essa vida de graduando em CC, aqui na Cesar School e busco aprender todos os dias o que está sendo feito de novo no mundo, quais são a novas grandes tecnologias do mercado e atualmente estou estágiando como Engenheiro de Software no CESAR.
 
 <p align="center">
   <img src="https://i.ibb.co/gJ0C0Pd/W.jpg" alt="Foto no Cesar" width="30%" height="169">

@@ -4,7 +4,6 @@
 </br>
 
 <div dsplay="inline-block">
- 
  <h1 align="left">Kauan V Novello de Souza</h1>
  <!-- <a href="https://www.instagram.com/kauannovellosz/">
     <img align="left" width="80px" src="https://i.ibb.co/DttfBcB/instagram.png" alt="instagram" style="vertical-align:top;">
@@ -15,7 +14,6 @@
   <a href="mailto:kvns@cesar.school">
     <img align="left" width="80px" src="https://i.ibb.co/WVPcfRR/email.png" alt="email" style="vertical-align:top;">
   </a> -->
-  
 </div>
 
 </br>

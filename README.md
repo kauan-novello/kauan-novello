@@ -22,7 +22,7 @@
 
 <details>
  <summary><h2>Olá, Devs! Clique aqui para ver um breve resumo da minha história:</h2></summary>
- <p>Tenho 19 anos, moro em <b>Recife/PE</b> e sou apaixonado por <strong>tecnologia e inovação.</strong>
+ <p>Tenho 21 anos, moro em <b>Recife/PE</b> e sou apaixonado por <strong>tecnologia e inovação.</strong>
 
 Minha história na área teve início aos 14 anos, durante o meu 9º ano do ensino fundamental.</br> 
 Fui incentivado pela minha escola, que oferecia cursos profissionalizantes de <b>marketing digital, empreendedorismo e design gráfico</b>.
@@ -63,7 +63,7 @@ Uma curiosidade legal é que nessa epóca cheguei até a ser piloto de drone, o 
 
 O tempo foi se passando, a empresa foi crescendo, novos funcionarios foram chegando, eu estava muito feliz mas percebi que tinha chegado meu momento ali, apesar de gostar muito do que eu fazia, tinha a sensação que estava fugindo da minha area, do que eu gostava de fazer, então decidir que era o momento de se encerrar aquele ciclo e voltar a investir na minha carreira na tecnologia.
 
-E foi ai que decidi, não tinha lugar melhor pra me reinserir no mundo da tecnologia do que a Cesar School, voltar pro ecossistema onde se respira inovação, viver o aprendizado de forma dinâmica, criativa e inspiradora. Então fiz o vestibular e consegui passar fazer Ciência da Computação, o curso que sempre quis. Nesse meio tempo cheguei a passsar também na Federal pra Engenharia Eletrônica, mas como disse, estava decidido que o CESAR era o meu lugar!
+E foi ai que decidi, não tinha lugar melhor pra me reinserir no mundo da tecnologia do que a Cesar School, voltar pro ecossistema onde se respira inovação, viver o aprendizado de forma dinâmica, criativa e inspiradora. Então fiz o vestibular e consegui passar fazer Ciência da Computação, o curso que sempre quis. Nesse meio tempo cheguei a passsar também na Federal pra Engenharia Eletrônica, mas como disse, estava decidido que o CESAR era o meu lugar, após muita luta, passei por meio do FIES e ingressei em 2022.2!
 
 Desde então tenho vivido essa vida de graduando em CC, aqui na Cesar School e busco aprender todos os dias o que está sendo feito de novo no mundo, quais são a novas grandes tecnologias do mercado e atualmente estou estágiando como Engenheiro de Software no CESAR.
 

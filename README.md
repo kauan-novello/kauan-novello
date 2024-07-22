@@ -16,10 +16,8 @@
   </a> -->
 </div>
 
-</br>
-
 <details>
- <summary><h2>Olá, Devs! Clique aqui para ver um breve resumo da minha história:</h2></summary>
+ <summary><b>Olá, Devs! Clique aqui caso queira ver um breve resumo da minha história:</b></summary>
  <p>Tenho 21 anos, moro em <b>Recife/PE</b> e sou apaixonado por <strong>tecnologia e inovação.</strong>
 
 Minha história na área teve início aos 14 anos, durante o meu 9º ano do ensino fundamental.</br> 
@@ -80,13 +78,16 @@ Desde então tenho vivido essa vida de graduando em CC, aqui na Cesar School e b
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<code><a href="#"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></a></code>
-<code><a href="#"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></a></code>
 <code><a href="#"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></a></code>
 <code><a href="#"><img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" title = "PYTHON"/></a></code>
 <code><a href="#"><img width="40px" src="https://img.icons8.com/color/452/c-programming.png" title = "C"/></a></code>
-<code><a href="#"><img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/haskell/haskell-original.svg" title = "HASKELL"/></a></code>
 <code><a href="#"><img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" title = "JAVA"/></a></code>
+<code><a href="#"><img width="40px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/haskell/haskell-original.svg" title = "HASKELL"/></a></code>
+<code><a href="#"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title = "DJANGO"/></a></code>
+<code><a href="#"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT"/></a></code>
+<code><a href="#"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></a></code>
+<code><a href="#"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></a></code>
+<code><a href="#"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title = "DOCKER"/></a></code>
 <code><a href="#"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></a></code>
 
 </br>
@@ -94,7 +95,9 @@ Desde então tenho vivido essa vida de graduando em CC, aqui na Cesar School e b
 
 <div display="inline-block">
  <p align="left">🏫 Faço parte da Cesar School, uma universidade que tem como objetivo formar profissionais capazes de inovar, empreender e transformar o mundo por meio da tecnologia, e seu modelo educacional é baseado em aprendizado por projetos, onde os alunos são desafiados a desenvolver soluções para problemas reais e aplicar seus conhecimentos em situações práticas;</p>
- <p align="left">📚 Atualmente tenho estudado Java, C e Haskell;</p>
+ <p align="left">📚 Atualmente as linguagens que mais tenho usado são JavaScript e Python; </br>
+ Mas na faculdade tenho estudado mais com C e Java;
+ </p>
  <p align="left">☕🎮🏋🎸 Como todo bom dev sou movido a café e adoro games. Mas também cuido bastante do meu corpo, pratico diversos esportes e gosto bastante de ir pra academia. Além disso também sou músico, toco diversos instrumentos.</p>
 </div>
 

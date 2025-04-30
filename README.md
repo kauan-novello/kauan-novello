@@ -108,7 +108,7 @@ Estou participando ativamente do planejamento das atividades do time, seguindo a
 
 <div display="inline-block">
  <p align="left">🏫 Faço parte da Cesar School, uma universidade que tem como objetivo formar profissionais capazes de inovar, empreender e transformar o mundo por meio da tecnologia, e seu modelo educacional é baseado em aprendizado por projetos, onde os alunos são desafiados a desenvolver soluções para problemas reais e aplicar seus conhecimentos em situações práticas;</p>
- <p align="left">📚 Atualmente as linguagens que mais tenho usado são JavaScript e Python; </br>
+ <p align="left">📚 Atualmente as linguagens que mais tenho usado são TypeScript e Python; </br>
  Mas na faculdade tenho estudado mais com C e Java;
  </p>
  <p align="left">☕🎮🏋🎸 Como todo bom dev sou movido a café e adoro games. Mas também cuido bastante do meu corpo, pratico diversos esportes e gosto bastante de ir pra academia. Além disso também sou músico, toco diversos instrumentos.</p>

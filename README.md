@@ -70,6 +70,19 @@ Desde então tenho vivido essa vida de graduando em CC, aqui na Cesar School e b
 </p>
 
 </br>
+
+(Atualização vida de estág agora, isso aqui tá ficando gigante já já vou repensar como otimizar)
+
+Como estagiário de Engenharia de Software, estou desenvolvendo atividades voltadas para a construção e evolução de aplicações, com foco em boas práticas de desenvolvimento, qualidade de software e colaboração em equipe. Estou aplicando meu raciocínio lógico e conhecimentos em estrutura de dados, orientação a objetos e algoritmos para implementar soluções eficientes e escaláveis.
+
+Estou contribuindo na identificação e correção de débitos técnicos, sempre priorizando a estabilidade e a manutenção do código. Estou utilizando controle de versão com Git, escrevendo documentação técnica clara, e realizando leitura e debugging de código para buscar melhorias e corrigir problemas.
+
+No back-end, estou desenvolvendo com Python, utilizando frameworks como DjangoAPIRest e FastAPI para construir APIs REST robustas. Estou manipulando bancos de dados relacionais como PostgreSQL, modelando dados, escrevendo consultas SQL e SQLAlchemy(ORM) otimizadas e garantindo a integridade das informações. Também estou aprofundando meus conhecimentos em redes, protocolo HTTP e segurança web, com foco em práticas recomendadas no desenvolvimento de APIs.
+
+No front-end, estou criando interfaces web responsivas com TypeScript, utilizando frameworks como React e Next.js para entregar experiências modernas e acessíveis aos usuários. A atenção à qualidade da experiência do usuário está sendo uma prioridade constante.
+
+Estou participando ativamente do planejamento das atividades do time, seguindo as melhores práticas do mercado e promovendo a cultura de qualidade total em colaboração com meus colegas. Também estou antecipando e sinalizando riscos que possam impactar prazos e entregas, atuando de forma proativa na prevenção de problemas. Estou sendo incentivado por um ambiente de aprendizado contínuo e excelência, apoiado na boa execução dos processos de desenvolvimento e buscando sempre a melhoria constante.
+
 </p>
 </details>
 

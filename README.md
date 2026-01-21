@@ -34,23 +34,14 @@
  <p align="left">🎓 Olá me chamo Kauan, tenho 22 anos, sou Técnico em Desenvolvimento de Sistemas, Graduando em Ciência da Computação e Desenvolvedor Fullstack.</p>
  <p align="left">👨🏻‍💻 Atualmente sou Estágiario em Engenharia de Software no CESAR, o maior centro de inovação e conhecimento do Brasil, atuando de forma integrada com tecnologia, aceleração de negócios e educação.</p>
  <p align="left">🏫 Estudo Ciência da Computação na CESAR School, uma universidade que tem como objetivo formar profissionais capazes de inovar, empreender e transformar o mundo por meio da tecnologia, e seu modelo educacional é baseado em aprendizado por projetos, onde os alunos são desafiados a desenvolver soluções para problemas reais e aplicar seus conhecimentos em situações práticas.</p>
- <p align="left">📚 Atualmente as linguagens que mais tenho usado são Java, Python e TypeScript com os Frameworks Quaskus, FastAPI, Django e React</p>
+ <p align="left">📚 Atualmente as linguagens que mais tenho usado são Java, Python e TypeScript com os Frameworks Quarkus, FastAPI, Django e React</p>
  <p align="left">☕🎮🏋🎸 Como a maioria dos dev sou movido a café e adoro games. Mas também curto bastante praticar esportes, ir pra academia e além disso também sou músico, toco alguns instrumentos.</p>
 </div>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/kauannovellosz) e pode conhecer meus projetos já desenvolvidos que estão disponíveis aqui nos repositórios. =)
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/kauannovellosz) e pode conhecer meus projetos já desenvolvidos que estão disponíveis aqui nos repositórios.
 
 </br>
 <a href="https://www.instagram.com/kauannovellosz" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/kauan-novello-a23322196/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 </br>
 
-##
-<!-- 
-<p align="center">
-<a href="https://github.com/kauan-novello/kauannovello">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kauan-novello&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kauan-novello&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
--->

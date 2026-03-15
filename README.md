@@ -1,5 +1,3 @@
-<img align="right" width="250px" src="https://i.ibb.co/58YyPng/1676427994964.png" alt="Foto minha no Cesar" style="margin-top:-30px; border-radius:50%;">
-
 <h1 align="left">Kauan V Novello de Souza</h1>
 
 <div >
